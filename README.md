@@ -1,15 +1,16 @@
 # Task Squirrel
 
 ## Overview
-Task Squirrel is an app designed to assist desperate parents in motivating their children to complete chores and lend a helping hand. The app offers a list of tasks that users can assign to their children, and it requires users to attach photos as proof of task completion. Additionally, Task Squirrel provides a map feature to display the location where each photo was taken.
+Task Squirrel is an app designed to assist parents in motivating their children to complete chores and lend a helping hand. The app offers a list of tasks that users can assign to their children, and it requires users to attach photos as proof of task completion. Additionally, Task Squirrel provides a map feature to display the location where each photo was taken.
 
 ![Screenshot of app with base features implemented](link_to_screenshot_image)
 
 ## 🎯 Goals
 By the end of this lab, you will be able to:
 
-[x] Utilize PHPickerViewController to select photos and retrieve photo data from the photo library.
-[x] Implement MapKit to display custom annotations on a map.
+[] Utilize PHPickerViewController to select photos and retrieve photo data from the photo library.
+
+[] Implement MapKit to display custom annotations on a map.
 
 ## Features
 ### Required Features
