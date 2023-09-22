@@ -54,5 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** Replace `[link_to_screenshot_image]`, `[your-username]`, `[Course Name]`, `[Your Institution]`, and any other placeholders with actual information relevant to your project.
-
+**Note:**  `[Mobile Apps]`
